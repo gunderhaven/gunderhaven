@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunderhaven
 - 👀 I’m interested in becoming more literate in the web development space
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML and CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 gunderhaven@gmail.com
 
